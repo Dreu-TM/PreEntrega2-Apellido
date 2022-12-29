@@ -1,0 +1,14 @@
+ 	DESKTOP:
+WIREFRAME index  -->  https://wireframe.cc/BoTRns
+WIREFRAME marcas --> https://wireframe.cc/m2EDUX
+WIREFRAME medios de pago --> https://wireframe.cc/iA6Ax7
+WIREFRAME sobre nosotros --> https://wireframe.cc/LNc1Mk
+WIREFRAME terminos y condiciones --> https://wireframe.cc/Ron2U5
+
+
+	MOBILE:
+WIREFRAME index --> https://wireframe.cc/4HGIGa
+WIREFRAME marcas --> https://wireframe.cc/Ucw8KJ
+WIREFRAME medios de pago --> https://wireframe.cc/URhmFJ
+WIREFRAME sobre nosotros --> https://wireframe.cc/UWkl4y
+WIREFRAME terminos y condiciones --> https://wireframe.cc/HigPHt

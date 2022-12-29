@@ -1,0 +1,48 @@
+MENU		
+<ul>
+                    <li>
+                        <a href="#">Computadoras</a> 
+                    </li>
+                    <li>
+                        <a href="#">Laptops</a> 
+                    </li>
+                    <li>
+                        <a href="#">Teclados y Mouse</a> 
+                    </li>
+                    <li>
+                        <a href="#">Accesorios</a> 
+                    </li>
+                    <li>
+                        <a href="#">Monitores</a> 
+                    </li>
+                    <li>
+                        <a href="#">Impresoras</a> 
+                    </li>
+                    <li>
+                        <a href="#">Software</a> 
+                    </li>
+                </ul>
+MARCAS
+<ul>
+                    <li>
+                        <a href="#">Logitech</a> 
+                    </li>                  
+                    <li>
+                        <a href="#">Asus</a> 
+                    </li>
+                    <li>
+                        <a href="#">Lenovo</a> 
+                    </li>
+                    <li>
+                        <a href="#">Hp</a> 
+                    </li>
+                    <li>
+                        <a href="#">Epson</a> 
+                    </li>
+                    <li>
+                        <a href="#">Antryx</a> 
+                    </li>
+                    <li>
+                        <a href="#">Acer</a> 
+                    </li>
+                </ul>
